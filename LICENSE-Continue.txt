@@ -1,0 +1,29 @@
+# Termos de uso da Continue
+
+## Uso da engine
+
+Você pode usar a Continue para criar jogos pessoais ou comerciais. A licença é pessoal, não exclusiva e não pode ser transferida. A Continue não cobra royalties sobre os jogos exportados, salvo se um serviço futuro apresentar outras condições antes da contratação.
+
+## Seus projetos e jogos
+
+Os projetos, jogos e conteúdos criados por você continuam sendo seus. Você também é responsável por ter permissão para usar imagens, sons, fontes e outros arquivos importados.
+
+## Jogos exportados
+
+Você pode publicar, vender e distribuir seus jogos. O runtime da Continue pode acompanhar o jogo como parte da exportação, mas não pode ser separado, revendido ou reutilizado em outro produto.
+
+## Restrições
+
+Não é permitido copiar ou redistribuir a engine, remover avisos de autoria, contornar proteções, vender acesso não autorizado ou usar a marca Continue como se fosse sua. As exceções obrigatórias previstas em lei continuam respeitadas.
+
+## Serviços e bibliotecas externas
+
+Recursos que utilizem serviços externos, como GitHub, seguem também as regras desses serviços. As bibliotecas usadas pela engine mantêm suas próprias licenças.
+
+## Funcionamento e atualizações
+
+A validade técnica desta versão é de 12 meses a partir do lançamento. Atualizações podem corrigir falhas ou alterar compatibilidade. Faça cópias de segurança e teste o jogo antes de publicar. Seus direitos obrigatórios previstos em lei não são reduzidos por esta licença.
+
+## Aceitação e encerramento
+
+Ao usar a Continue, você aceita estes termos. A licença pode ser encerrada se as regras forem violadas. Jogos exportados legalmente antes disso podem continuar sendo distribuídos. Aplicam-se as leis da República Federativa do Brasil.
